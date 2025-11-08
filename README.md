@@ -7,7 +7,7 @@ The goal is to identify **which factors predict future user adoption**, defined 
 
 ## Problem Overview
 
-Relax Inc. wants to understand which users are most likely to become **adopted users** — returning regularly to use the product.  
+Relax Inc. wants to understand which users are most likely to become **adopted users** - returning regularly to use the product.  
 This insight allows data-driven growth, improved onboarding, and personalized retention strategies.
 
 ### Datasets
