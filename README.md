@@ -15,8 +15,8 @@ Two CSVs were provided:
 
 | File | Description |
 |------|--------------|
-| **takehome_users.csv** | ~12,000 user records — includes account creation info, organization membership, and marketing preferences. |
-| **takehome_user_engagement.csv** | Daily login logs — includes `user_id` and `time_stamp` for every product login event. |
+| **takehome_users.csv** | ~12,000 user records - includes account creation info, organization membership, and marketing preferences. |
+| **takehome_user_engagement.csv** | Daily login logs - includes `user_id` and `time_stamp` for every product login event. |
 
 ---
 
