@@ -1,4 +1,4 @@
-# Relax Data Science Challenge — Predicting User Adoption
+# Relax Data Science Challenge - Predicting User Adoption
 
 This repository presents my complete solution for the **Relax Data Science Challenge**, a real-world product analytics and user retention problem.  
 The goal is to identify **which factors predict future user adoption**, defined as users who log in on **three separate days within at least one seven-day period**.
